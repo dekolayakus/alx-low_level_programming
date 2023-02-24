@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 #include <stdio.h>
 
@@ -13,3 +14,6 @@ int _isdigit(int c)
 		return (1);
 	return (0);
 }
+=======
+
+>>>>>>> 1c7df520e8f9a0e23d5454bfc132f390ebfc8362
